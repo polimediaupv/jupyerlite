@@ -43,3 +43,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+
+# Extensiones añadidas por la UPV
+jupyterlab-filesystem-access==0.6.0
+jupyterlab_tour==4.0.1
